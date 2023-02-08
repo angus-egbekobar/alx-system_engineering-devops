@@ -1,1 +1,1 @@
-i created my read me file
+shell basics
